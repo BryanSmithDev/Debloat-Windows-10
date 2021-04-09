@@ -27,7 +27,7 @@ $apps = @(
     "Microsoft.MicrosoftSolitaireCollection"
     #"Microsoft.MicrosoftStickyNotes"
     "Microsoft.MinecraftUWP"
-    "Microsoft.NetworkSpeedTest"
+    #"Microsoft.NetworkSpeedTest"
     "Microsoft.Office.OneNote"
     "Microsoft.People"
     "Microsoft.Print3D"
@@ -73,7 +73,7 @@ $apps = @(
 
     # Redstone 5 apps
     "Microsoft.MixedReality.Portal"
-    "Microsoft.ScreenSketch"
+    #"Microsoft.ScreenSketch"
     "Microsoft.XboxGamingOverlay"
     "Microsoft.YourPhone"
 
